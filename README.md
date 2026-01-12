@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Gabriel Kessler
 
-I'm a data analyst with a strong foundation in tech sales and recruiting. I’ve fully transitioned into the world of data, where I combine analytical thinking with a passion for innovative technology to solve real-world problems.
-
+With a background in tech sales, I’ve transitioned into data, combining analytical thinking with a passion for building innovative, real-world solutions.
 ---
 
 ### 🛠️ Skills & Tools
